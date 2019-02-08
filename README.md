@@ -1,1 +1,1 @@
-# -camera-photo
+# camera-photo
